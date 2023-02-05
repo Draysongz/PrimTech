@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import network from '../assets/networkgif.gif'
+import network from '../assets/net.png'
 
 const Hero = () => {
   return (

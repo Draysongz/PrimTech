@@ -21,7 +21,7 @@
 }
 .hero{
     width:100%;
-    background:linear-gradient(to left, rgb(189, 225, 240), white) ;
+    background:linear-gradient(to right, rgb(189, 225, 240), white) ;
     padding: 2%;
     /* margin-top: .5%; */
 }
@@ -37,5 +37,5 @@ height:80vh
     margin-left: 1%;
     border-radius: 5px;   
     outline:none;
-    background-color: purple;
+    background-color: #;
 }
