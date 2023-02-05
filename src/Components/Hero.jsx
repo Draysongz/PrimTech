@@ -21,7 +21,10 @@ const Hero = () => {
     </div>
     <div className="left-buttons">
         <button type='button' className='learnBtn'>Learn More</button>
-        <button type='button' className='contactBtn'>Contact us</button>
+        
+        <button type='button' className='contactBtn'>Contact us<span><i class="fa-solid fa-arrow-right"></i></span> </button>
+        
+        
     </div>
 </div>
 <div className="right">
